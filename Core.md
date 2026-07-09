@@ -1,7 +1,5 @@
 # Backend Fundamentals
 
-Backend development is about building systems that handle data, logic, and communication between clients and servers.
-
 ## Core Concepts
 - [[What is the Web]]
 - [[Client Server Model]]
@@ -16,6 +14,12 @@ Backend development is about building systems that handle data, logic, and commu
 - [[HTTP Status Codes]]
 - [[HTTP Headers]]
 - [[HTTP Body]]
+
+## API Design
+- [[REST]]
+- [[Resources vs Actions]]
+- [[Idempotency]]
+- [[API Design]]
 
 ## Infrastructure
 - [[Server]]
